@@ -1,0 +1,7 @@
+Wykonane inserty dla tabeli stanowisko:
+
+            INSERT INTO stanowisko 
+            (id_stanowisko, nazwa, godz_rozpoczecia_zmiany, godz_zakonczenia_zmiany) 
+            VALUES 
+            (1, 'Farmaceuta kierowniczy', TO_DATE('2024-03-05 06:00:00', 'YYYY-MM-DD HH24:MI:SS'), TO_DATE('2024-03-05 14:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+        

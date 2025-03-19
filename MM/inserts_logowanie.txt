@@ -1,0 +1,31 @@
+Wykonane inserty dla tabeli logowanie:
+
+            INSERT INTO logowanie 
+            (id_uzytkonwik, login, email, haslo, pracownicy_id_pracownik, pacjent_id_pacjent) 
+            VALUES 
+            (1, 'user73607', 'user73607@gmail.com', 'XJTcJ9AAYN', 4, NULL)
+        
+
+            INSERT INTO logowanie 
+            (id_uzytkonwik, login, email, haslo, pracownicy_id_pracownik, pacjent_id_pacjent) 
+            VALUES 
+            (2, 'user19442', 'user19442@gmail.com', '1od4vtRAYo', NULL, 3)
+        
+
+            INSERT INTO logowanie 
+            (id_uzytkonwik, login, email, haslo, pracownicy_id_pracownik, pacjent_id_pacjent) 
+            VALUES 
+            (3, 'user04815', 'user04815@gmail.com', '6NqeCLwpgL', 3, NULL)
+        
+
+            INSERT INTO logowanie 
+            (id_uzytkonwik, login, email, haslo, pracownicy_id_pracownik, pacjent_id_pacjent) 
+            VALUES 
+            (4, 'user26754', 'user26754@gmail.com', 'CrJwzDgfq1', NULL, 2)
+        
+
+            INSERT INTO logowanie 
+            (id_uzytkonwik, login, email, haslo, pracownicy_id_pracownik, pacjent_id_pacjent) 
+            VALUES 
+            (5, 'user67815', 'user67815@gmail.com', 'H0z3NxKkyf', 5, NULL)
+        

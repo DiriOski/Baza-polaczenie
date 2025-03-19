@@ -1,0 +1,7 @@
+Wykonane inserty dla tabeli recepty:
+
+            INSERT INTO recepty 
+            (id_recepta, nr_recepty, data_wystawienia, data_realizacji, lekarz, pacjent_id_pacjent, pracownicy_id_pracownik) 
+            VALUES 
+            (1101, 7581, TO_DATE('2023-02-04', 'YYYY-MM-DD'), NULL, 'Dr. D¹browski', 88, 26)
+            
