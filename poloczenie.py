@@ -5,7 +5,7 @@ user_name = ""
 password = ""
 
 try:
-    dsn = cx_Oracle.makedsn(host='', port=1521, service_name='tpdb')
+    dsn = cx_Oracle.makedsn(host='', port='', service_name='')
     connection = cx_Oracle.connect(user=user_name, password=password, dsn=dsn)
     cursor = connection.cursor()
     print("Połączono z SQLDeveloper :)")
